@@ -1,0 +1,22 @@
+from linkedbst import LinkedBST
+
+# tree = LinkedBST()
+# tree.add(2)
+# tree.add(1)
+# tree.add(0)
+# tree.add(33)
+# tree.add(25)
+# tree.add(40)
+# tree.add(11)
+# tree.add(34)
+# tree.add(7)
+# tree.add(12)
+# tree.add(13)
+# tree.add(36)
+# print(tree)
+# print(tree.successor(33))
+# print(tree.predecessor(33))
+# print(tree.range_find(12, 34))
+# print(tree.successor(-111))
+
+LinkedBST.demo_bst("words.txt")
